@@ -120,3 +120,7 @@ use Psr\EventDispatcher\ListenerProviderInterface;
 
 $dispatcher = new EventDispatcher($yourCustomProvider);
 ```
+
+## License
+
+MIT, see [LICENSE](LICENSE).
